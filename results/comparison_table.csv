@@ -1,0 +1,6 @@
+Method,PartA_MAE,PartA_RMSE,PartB_MAE,PartB_RMSE
+MCNN (Zhang 2016),110.2,173.2,26.4,41.3
+FCN (Marsden 2016),126.5,173.5,23.8,33.1
+SaCNN (Zhang 2017),86.8,139.2,16.2,25.8
+"CSRNet (Li 2018, paper)",68.2,115.0,10.6,16.0
+"CSRNet (ours, extended)",106.11,178.18,18.01,36.16
