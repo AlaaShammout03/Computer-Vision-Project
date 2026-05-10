@@ -119,7 +119,7 @@ Total runtime end-to-end: approximately 2 hours
 
 17. **Run the comparison table cell** after both parts are trained. It loads both checkpoints, evaluates on both test sets, and produces a table comparing our results against four published baselines (MCNN, FCN, SaCNN, CSRNet paper). Saved to `results/comparison_table.csv`.
 
-## Demo — Predicting on Custom Images
+## Demo: Predicting on Custom Images
 
 Use the demo cell in section 11 to run inference on any image:
 
