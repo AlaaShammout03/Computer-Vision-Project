@@ -2,7 +2,7 @@
 
 **Course:** COE486 - Computer Vision, Spring 2026  
 **Institution:** American University of Sharjah  
-**Authors:** Alaa Shammout, Moamen Abouzaid, Omar Joudeh
+**Project Context:** 3-person computer vision team project
 
 This project re-implements **CSRNet** (Li et al., CVPR 2018) for single-image crowd counting and extends it with an expanded augmentation pipeline, a stable training recipe with density rescaling, and a per-density-bucket error analysis. Models are trained and evaluated on the **ShanghaiTech** dataset (Parts A and B).
 
