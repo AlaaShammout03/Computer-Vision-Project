@@ -2,7 +2,7 @@
 
 **Course:** COE486 — Computer Vision, Spring 2026
 **Institution:** American University of Sharjah
-**Authors:** Alaa Riyad, Moamen Abouzaid, Omar Joudeh
+**Authors:** Alaa Shammout, Moamen Abouzaid, Omar Joudeh
 
 This project re-implements **CSRNet** (Li et al., CVPR 2018) for single-image crowd counting and extends it with an expanded augmentation pipeline, a stable training recipe with density rescaling, and a per-density-bucket error analysis. Models are trained and evaluated on the **ShanghaiTech** dataset (Parts A and B).
 
@@ -41,6 +41,15 @@ This project is organized into a few main folders. Here's what you'll find:
 - Python 3.10+
 - NVIDIA GPU or colab T4 - CPU-only works but is much slower
 - around 5 GB free disk space
+
+## My Contributions
+
+- Re-implemented and trained CSRNet for crowd counting using PyTorch.
+- Prepared the ShanghaiTech dataset and generated density maps.
+- Ran experiments on ShanghaiTech Part A and Part B.
+- Applied density rescaling to improve training stability.
+- Evaluated the model using MAE and RMSE.
+- Contributed to per-density-bucket error analysis and result visualization.
 
 ## How To Run
 
