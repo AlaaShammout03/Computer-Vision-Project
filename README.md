@@ -168,7 +168,3 @@ The 80/20 train/validation split uses `sklearn.train_test_split` with `random_st
 
 - **CSRNet (paper):** Li, Y., Zhang, X., & Chen, D. (2018). *CSRNet: Dilated convolutional neural networks for understanding highly congested scenes.* CVPR 2018.
 - **ShanghaiTech dataset:** Zhang, Y., Zhou, D., Chen, S., Gao, S., & Ma, Y. (2016). *Single-image crowd counting via multi-column convolutional neural network.* CVPR 2016.
-
-## Acknowledgments
-
-We thank Dr. Omar Arif for guidance throughout the COE486 Computer Vision course at the American University of Sharjah.
