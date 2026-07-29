@@ -13,7 +13,7 @@ This project re-implements **CSRNet** (Li et al., CVPR 2018) for single-image cr
 | ShanghaiTech Part A | 106.11 | 178.18 |
 | ShanghaiTech Part B |  18.01 |  36.16 |
 
-We outperform two to three of four published baselines and approach the original CSRNet paper's performance on sparse scenes (Part B Low-density bucket: 9.1% relative error).
+We outperform two of four published baselines and approach the original CSRNet paper's performance on sparse scenes (Part B Low-density bucket: 9.1% relative error).
 
 ## What's in this Repository
 
