@@ -19,7 +19,7 @@ We outperform two to three of four published baselines and approach the original
 
 This project is organized into a few main folders. Here's what you'll find:
 
-- **`CSRNet_Crowd_Counting_Project.ipynb`** — The main notebook. Running this from top to bottom will train the model and produce all our results.
+- **`CSRNet_Crowd_Counting_Project_Final.ipynb`** — The main notebook. Running this from top to bottom will train the model and produce all our results.
 
 - **`models/`** — Contains `csrnet.py`, which is the CSRNet model architecture (VGG-16 frontend + dilated backend).
 
@@ -55,7 +55,7 @@ This project is organized into a few main folders. Here's what you'll find:
 
 The fastest way to reproduce our results is to open the notebook in Google Colab. No local setup required
 
-1. Open `CSRNet_Crowd_Counting_Project.ipynb` in [Google Colab](https://colab.research.google.com/).
+1. Open `CSRNet_Crowd_Counting_Project_Final.ipynb` in [Google Colab](https://colab.research.google.com/).
 2. Switch runtime to GPU: **Runtime --> Change runtime type --> T4 GPU**
 3. Mount your Google Drive
 4. Run cells top-to-bottom
